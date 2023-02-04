@@ -18,6 +18,28 @@ rake db:migrate
 
 Go ahead and play with the app and the code. As you make code changes, the app will automatically reload.
 
+# Job Assignment
+
+## Devided Controller's handler
+
+| Controller        | Assigned person's name  |
+| :---            |    :---                 |
+| X       | Lê Thanh Giang            |
+| X       | Phan Thị Trang Ngân     |
+| X     | Đặng Huy Hoàng          |
+| X     | Nguyễn Đình Đức          |
+| X     | Đoàn Trung Dũng          |
+| X     | Lê Văn Toàn          |
+
+## How to turn in
+- Step 1: Create a branch with syntax feature/{name_controller}. Example: "feature/X"
+- Step 2: Upload your work on that branch
+- Step 3: Pull lst code from main branch 
+- Step 4: Push your work on that branch
+- Step 5: Create pull request to main branch
+- Step 6: Announce to your's leader to review code and merge code. **DO NOT MERGE CODE BY YOURSELF**
+
+
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/
 [ruby]: https://rubyinstaller.org/
